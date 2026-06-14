@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+pyarrow      # Bắt buộc để Pandas đọc/ghi định dạng .parquet
+numba       # JIT compiler tăng tốc vòng lặp giải PDE
+streamlit
+plotly
+matplotlib
+folium
+opencv-python
