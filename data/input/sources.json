@@ -1,0 +1,18 @@
+[
+    {
+        "source_id": "Công trường Tây (A)",
+        "grid_x": 40,
+        "grid_y": 30,
+        "size_x": 2,
+        "size_y": 2,
+        "s_base": 15.0
+    },
+    {
+        "source_id": "Công trường Đông (B)",
+        "grid_x": 40,
+        "grid_y": 70,
+        "size_x": 2,
+        "size_y": 2,
+        "s_base": 15.0
+    }
+]
